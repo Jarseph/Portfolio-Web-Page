@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+  html {
+      background-color: #f6f2eb;
+      font-family: 'Courier New', Courier, monospace;
+  }
+  body {
+    margin: 0;
+  }
+  section,
+article,
+aside,
+footer,
+header {
+  padding: 0.5rem;
+}
+header,
+footer {
+  background-color: #1d4a3b;
+  color: #ffffff;
+  text-align: center;
+  border-bottom: 1px solid #ffffff;
+}
+h2 p {
+    color: solid black;
+}
