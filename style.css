@@ -25,3 +25,7 @@ footer {
 h2 p {
     color: solid black;
 }
+a:any-link {
+  color: #1d4a3b;
+  
+}
