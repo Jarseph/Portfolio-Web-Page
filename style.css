@@ -38,6 +38,8 @@ color: #1d4a3b;
 p {
 font-size: 16px;
 line-height: normal; 
+margin-left: 355px;
+margin-right: 355px;
 }
 .center {
 display: block;
@@ -46,4 +48,11 @@ margin-right: auto;
 }
 ol {
 text-align: left;
+margin-left: 355px;
+}
+a:hover {
+outline: 1px solid  #141f21;
+color: #141f21;
+text-decoration: underline;
+font-size: 20px;
 }
